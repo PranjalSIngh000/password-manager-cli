@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+salt.key
+vault.db
+*.db
